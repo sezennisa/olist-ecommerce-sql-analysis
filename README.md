@@ -6,6 +6,8 @@ The project covers database design, data loading, data quality checks and 15 bus
 **Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 **Tools:** PostgreSQL 18, pgAdmin 4
 
+**Full report (in French):** [rapport.pdf](rapport.pdf)
+
 ---
 
 ## Key findings
